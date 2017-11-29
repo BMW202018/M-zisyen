@@ -304,7 +304,7 @@ end
 end
 
 if (matches[1] == 'اصدار السورس' or matches[1] == 'boss') then
-return '◈￤ اصدار سورس الزعيم `V'..update..'` 🍃'
+return '◈￤ اصدار سورس ميتو 1 `V'..update..'` 🍃'
 end
 
 if (matches[1] == 'تحديث السورس' or matches[1] == 'update') and is_sudo(msg) then
