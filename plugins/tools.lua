@@ -1,6 +1,6 @@
 -- BY MOHAMMED HISHAM
--- BY @TH3BOSS
--- BY @lBOSSl
+-- BY @Tel_i_i56
+-- BY @TOTATY98
 
 function exi_files(cpath)
     local files = {}
