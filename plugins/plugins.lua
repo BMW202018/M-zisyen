@@ -1,6 +1,6 @@
 do 
 
-local update = 24; --  رقم اصدار السورس 
+local update = 1; --  رقم اصدار السورس 
 
 function exi_files(cpath)
     local files = {}
