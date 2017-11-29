@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [<< TH3BOSS >> V24 (Final Version)](https://telegram.me/llDEV1ll)
+
 
  <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
 <p align="center"><img src="زعيم.jpg" alt="بوت زعيم" title="بوت زعيم">
@@ -7,7 +7,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x install.sh &&./install.sh
+git clone https://github.com/BMW202018/M-zisyen && cd M-zisyen && chmod +x install.sh &&./install.sh
 ```
 
 
@@ -21,7 +21,7 @@ redis-server
 ```
 ◈￤  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/BMW202018/M-zisyen
 ```
 ◈￤  وراها هاي
 ```sh
